@@ -1,6 +1,7 @@
 ---
-title: Bastian Kröger
-description: IT-Spezialist Anwendungsentwicklung
+title: Curriculum Vitae
+description: Bastian Lukas Kröger
 ---
 ![profile picture](https://bastian-kroeger.tech/profile-picture.jpg)
-## Kontaktdaten
+## Current employment
+IT-Specialist Application Development

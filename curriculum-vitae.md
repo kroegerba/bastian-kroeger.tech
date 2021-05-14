@@ -10,7 +10,7 @@ NRW.BANK • full-time employment
 July 2020-Today  
 Münster, North Rhine-Westphalia, Germany  
 ## Apprenticeship
-Computer Science Expert Software Development  
-Olympus Soft Imaging Solutions GmbH • apprenticeship  
+CS Expert Software Development  
+Olympus Soft Imaging Solutions GmbH  
 August 2018-July 2020  
 Münster, North Rhine-Westphalia, Germany  

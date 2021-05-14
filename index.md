@@ -2,9 +2,7 @@
 title: bastian-kroeger.tech  
 ---
 ---
-<p align="center">
-    # [Blog](https://bastian-kroeger.tech/blog)
-</p>
+# [Blog](https://bastian-kroeger.tech/blog)
 ---
 # [Curriculum Vitae](https://bastian-kroeger.tech/curriculum-vitae)  
 ---

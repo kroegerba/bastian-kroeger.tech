@@ -1,6 +1,6 @@
 ---
-title: Curriculum Vitae
-description: Bastian Lukas Kröger
+title: Bastian's Personal Website  
+description: Everything I want to publish mostly for quick access by myself  
 ---
 ## [Blog](https://bastian-kroeger.tech/blog)
 ## [Curriculum Vitae](https://bastian-kroeger.tech/curriculum-vitae)  

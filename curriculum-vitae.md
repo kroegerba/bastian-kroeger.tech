@@ -4,7 +4,7 @@ description: Bastian Lukas Kröger
 excerpt: A Personal Website For Bastian Lukas Kröger
 ---
 ![profile picture](https://bastian-kroeger.tech/profile-picture.jpg)
-## Current employment
+## Current Employment
 IT-Specialist Software Development  
 NRW.BANK • full-time employment  
 July 2020-Today  
